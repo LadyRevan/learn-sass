@@ -1,0 +1,22 @@
+{
+  "name": "learn-sass",
+  "version": "0.1.0",
+  "description": "learning SASS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LadyRevan/learn-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LadyRevan/learn-sass/issues"
+  },
+  "homepage": "https://github.com/LadyRevan/learn-sass#readme",
+  "devDependencies": {
+    "node-sass": "^3.13.0"
+  }
+}
